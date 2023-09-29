@@ -1,0 +1,13 @@
+.status {
+  color: darkblue;
+  font-size: 24px;
+  margin: 10px;
+  padding: 10px;
+  border-width: 2px;
+  border-color: aqua;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.board-row {
+  margin: 0px;
+}
