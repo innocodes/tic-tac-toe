@@ -1,5 +1,15 @@
+* {
+  margin: 0px;
+}
+
+button {
+}
+
 .square {
   border-color: black;
   border-width: 1px;
   background-color: aliceblue;
+}
+
+.board-row {
 }
