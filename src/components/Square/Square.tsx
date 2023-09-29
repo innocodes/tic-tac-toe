@@ -1,10 +1,11 @@
-import React from "react";
 import "./Square.css";
 
-export default function Square({ value }: any) {
+export default function Square({ value, onSquareClick }: any) {
   return (
     <>
-      <button className="square">{value}</button>
+      <button className="square" onClick={onSquareClick}>
+        {value}
+      </button>
     </>
   );
 }
